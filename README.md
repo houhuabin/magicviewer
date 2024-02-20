@@ -1,4 +1,4 @@
-### Introduction To JavaScript
+### Introduction
 
 This is the source code of MagicViewer
 
